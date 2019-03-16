@@ -1,14 +1,14 @@
 ---
 layout: tutorial_page
-permalink: /metabolomics_2018_mod2lab
-title: Metabolomics
+permalink: /metabolomics_2019_mod2lab
+title: Metabolomics 2019
 header1: Workshop Pages for Students
-header2: Informatics and Statistics for Metabolomics 2018 Module 2 Lab
+header2: Informatics and Statistics for Metabolomics 2019 Module 2 Lab
 image: /site_images/CBW_metabolomics_icon.jpg
-home: https://bioinformaticsdotca.github.io/metabolomics_2017
+home: https://bioinformaticsdotca.github.io/metabolomics_2019
 description: Metabolomics Module 2 Lab
 author: David Wishart and Jeff Xia
-modified: June 11, 2018
+modified: March 16, 2019
 ---
 
 # Module 2 Lab: Metabolite Identification and Annotation
