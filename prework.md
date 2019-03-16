@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /metabolomics_2018_prework
-title: Metabolomics Prework
+permalink: /metabolomics_2019_prework
+title: Metabolomics Pre-work
 header1: Workshop Pages for Students
-header2: Informatics and Statistics for Metabolomics 2018
+header2: Informatics and Statistics for Metabolomics 2019
 image: /site_images/CBW_metabolomics_icon.jpg
-home: https://bioinformaticsdotca.github.io/metabolomics_2018
+home: https://bioinformaticsdotca.github.io/metabolomics_2019
 ---
 
 ## Programs to Install
