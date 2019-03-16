@@ -1,9 +1,9 @@
 ---
 layout: workshop_main_2day
-permalink: /metabolomics_2018
-title: Metabolomics
+permalink: /metabolomics_2019
+title: Metabolomics 2019
 header1: Workshop Pages for Students
-header2: Informatics and Statistics for Metabolomics 2018
+header2: Informatics and Statistics for Metabolomics 2019
 image: /site_images/CBW_metabolomics_icon.jpg
 keywords: metabolome-focused experiments, analyzing metabolomic data, metabolome
 description: Course covers many topics ranging from understanding metabolomics technologies, data collection and analysis, using pathway databases, performing pathway analysis, conducting univariate and multivariate statistics, working with metabolomics databases, and exploring chemical databases. 
@@ -15,47 +15,43 @@ length: 2 days
 
 Informatics and Statistics for Metabolomics.  
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2018_schedule).
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2019_schedule).
 
-Pre-readings, pre-work, and laptop setup instructions can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2018_prework).<a id="preworkshop"></a>  
+Pre-readings, pre-work, and laptop setup instructions can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2019_prework).<a id="preworkshop"></a>  
 
 We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
 
-The full course notes are available as a [single PDF](https://drive.google.com/open?id=1K-z__-ZU7mQnGnAOIwzl9e1kgXtYqOKT).  
+The full course notes are available as a [single PDF]().  
 
 ***
 
 # Class photo
 
-<img src="https://github.com/bioinformaticsdotca/Metabolomics_2018/blob/master/IMG_0244.JPG?raw=true" alt="img" width="750" />
+Coming soon here.
 
 ***
 # Day 1 <a id="day1"></a>
 
 ##  Welcome
 
-  *<font color="#827e9c">Ann Meyer</font>* 
+  *<font color="#827e9c">Michelle Brazas</font>* 
 
 ##  Module 1: Introduction to Metabolomics 
 
   *<font color="#827e9c">David Wishart</font>*
   
-  [Lecture](https://drive.google.com/open?id=1jbM7oLsneIdUwkKoliOFvgFy2qQEbChl)  
-  
-  [Recording](https://www.youtube.com/watch?v=QENZ1DTQTHc&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH&index=2&t=0s)
+  [Lecture]()  
   
 
 ##  Module 2: Metabolite Identification and Annotation 
 
   *<font color="#827e9c">David Wishart</font>*
   
-  [Lecture](https://drive.google.com/open?id=17bYNb1uk29rgI9LwuzywQTX0NdQIz3Os)  
-  
-  [Recording](https://www.youtube.com/watch?v=O3gf9Alq57o&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH&index=3&t=0s)
+  [Lecture]() 
   
   [Lab practical](https://drive.google.com/open?id=1_hAsK0JpgVGuT90MeV2uDWPsfaYE-tFd)   
   
-  [Instructions for lab](https://bioinformaticsdotca.github.io/metabolomics_2018_mod2lab)
+  [Instructions for lab](https://bioinformaticsdotca.github.io/metabolomics_2019_mod2lab)
   
  
 1. NMR and <a href="cbw.bayesil.ca">Bayesil</a>.  
@@ -75,7 +71,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 <li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">CBW_NMR_result.zip</a> </li>
 </ul>
 
-* [NMR simple example file](https://github.com/bioinformaticsdotca/Metabolomics_2018/blob/master/NMR_example.zip)  
+* [NMR simple example file](https://github.com/bioinformaticsdotca/Metabolomics_2019/blob/master/NMR_example.zip)  
 
 ##### GC-Autofit:
 
@@ -133,9 +129,7 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Lecture](https://drive.google.com/open?id=1N2u1YUG5m7Jd_pdpiqVMEcfuIKWq9-0Z)  
-
-[Recording](https://www.youtube.com/watch?v=i3snG8Jol7A&index=4&t=0s&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH)
+[Lecture]()  
 
 #### Links:
   
@@ -163,18 +157,14 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
   *<font color="#827e9c">Jeff Xia</font>*
   
-  [Lecture](https://drive.google.com/open?id=1c2Nt8z7fi2-7_PqK92NwvIyQBjyGWpaT)  
-  
-  [Recording](https://www.youtube.com/watch?v=mtolDgEhcyg&index=5&t=0s&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH)
+  [Lecture]()  
   
 
 ##  Module 5: MetaboAnalyst 
 
   *<font color="#827e9c">Jeff Xia</font>*
   
-  [Lecture](https://drive.google.com/open?id=1jZSjqtqYnuKkeIpmLoHEwN459NpPlv2L)  
-  
-  [Recording](https://www.youtube.com/watch?v=lKipIJPXrLU)
+  [Lecture]() 
     
   [Lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1nmLqmrw4RpkdEOme8k0WzhfJL_wcIsRN/view?usp=sharing)  
   
@@ -199,9 +189,7 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
   *<font color="#827e9c">David Wishart</font>*
   
-  [Lecture](https://drive.google.com/open?id=1npifepz8whpJAqrlSkhjGHNp5eEMJwic)  
-  
-  [Recording](https://www.youtube.com/watch?v=TOO0TVpgRng&index=7&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH)
+  [Lecture]() 
   
 ***
 
