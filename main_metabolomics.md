@@ -131,6 +131,8 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
 [Lecture]()  
 
+[Lab Practical - From Raw Spectra to Biological Insights using MetaboAnalystR 2.0]()
+
 #### Links:
   
  * [HMDB](http://hmdb.ca/) 
@@ -185,14 +187,14 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
 
   
-  ##  Module 6: Future of Metabolomics 
+##  Module 6: Future of Metabolomics 
 
-  *<font color="#827e9c">David Wishart</font>*
+*<font color="#827e9c">David Wishart</font>*
   
-  [Lecture]() 
+[Lecture]() 
   
 ***
 
-Thank you for attending the Analysis of Metagenomic Data workshop! Help us make this workshop better by filling out [our survey](https://docs.google.com/forms/d/e/1FAIpQLSfKbgwo3KYZMudZuC-nn8rGgr67njx9lBfG7RkvX0qGHFn2Tw/viewform?usp=sf_link)  
+Thank you for attending the Analysis of Metagenomic Data workshop! Help us make this workshop better by filling out [our survey]()  
 
 ***
