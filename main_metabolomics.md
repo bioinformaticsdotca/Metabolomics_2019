@@ -13,23 +13,35 @@ length: 2 days
 
 # Welcome <a id="welcome"></a>
 
-Informatics and Statistics for Metabolomics.  
+[Welcome](https://drive.google.com/a/bioinformatics.ca/file/d/1jt4Fk3Ls4YqIDFUc89cmYOvE067Y0w6H/view?usp=sharing) to Informatics and Statistics for Metabolomics 2019.  
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2019_schedule).
 
-Pre-readings, pre-work, and laptop setup instructions can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2019_prework).<a id="preworkshop"></a>  
+Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1Re5v3ohp39dfbjBeq2tsHNbNg8eSI2ZK/view?usp=sharing)
 
-We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
-
-The full course notes are available as a [single PDF]().  
+**CLASS MATERIALS:** You can download the printed course manual [here]().  
 
 ***
 
-# Class photo
+# Pre-Workshop Materials <a id="preworkshop"></a>
 
-Coming soon here.
+## Laptop Setup Instructions
+
+Instructions to setup your laptop can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2019_prework).
+
+## Pre-workshop Tutorials
+
+Pre-readings and pre-work can be found here [here](https://bioinformaticsdotca.github.io/metabolomics_2019_prework).  
+It is in your best interest to complete these before the workshop.
 
 ***
+
+# Class Photo
+
+Coming soon  
+
+*** 
+
 # Day 1 <a id="day1"></a>
 
 ##  Welcome
