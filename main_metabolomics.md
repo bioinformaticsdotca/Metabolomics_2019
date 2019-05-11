@@ -27,7 +27,7 @@ Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1Re
 
 ## Laptop Setup Instructions
 
-Instructions to setup your laptop can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2019_prework).
+Instructions to setup your laptop can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2019_laptop_setup).
 
 ## Pre-workshop Tutorials
 
