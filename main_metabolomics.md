@@ -164,7 +164,13 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
  * [Reactome](http://www.reactome.org/) 
  * [BioCyc](http://biocyc.org/) 
 
-
+## From Raw Spectra to Biological Insights
+  *<font color="#827e9c">Jeff Xia</font>*
+  [Lecture]()  
+  
+  [Lab practical]()  
+  
+  
 # Day 2 <a id="day2"></a>
 
 ##  Module 4: Backgrounder in Statistics 
