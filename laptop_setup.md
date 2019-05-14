@@ -10,30 +10,23 @@ home: https://bioinformaticsdotca.github.io/metabolomics_2019
 
 ## Programs to Install
 
-1) A robust text editor.   
+1) A robust internet browser such as Firefox or Safari (Internet Explorer and Chrome are not recommended because of Java issues).
 
-* For Windows/PC - [notepad++](http://notepad-plus-plus.org/)  
-* For Linux - [gEdit](http://projects.gnome.org/gedit/)  
-* For Mac – [TextWrangler](http://www.barebones.com/products/textwrangler/download.html)
-
-2) A file decompression tool.  
-
-* For Windows/PC – [7zip](http://www.7-zip.org/).  
-* For Linux – [gzip](http://www.gzip.org).   
-* For Mac – already there.
-
-3) A robust internet browser such as Firefox or Safari (Internet Explorer and Chrome are not recommended because of Java issues).
-
-4) [Proteowizard MS convert](http://proteowizard.sourceforge.net/user_installation.shtml).  
-
-5) Latest version of [R](http://www.r-project.org/).  
-
-6) [XCMS in R](https://bioconductor.org/packages/release/bioc/html/xcms.html). Open R and type:
-
-```
-source("https://bioconductor.org/biocLite.R")
-biocLite("xcms")
-```
+2) A PDF viewer (Adobe Acrobat or equivalent).  
 
 
-7) A PDF viewer (Adobe Acrobat or equivalent).  
+
+If you are interested to perform the raw spectra analysis using R on your own, then also install:
+
+3) Install the most recent version of R for your operating system by following the links from http://www.r-project.org/  
+ 
+4) Download and install the most recent version of R Studio desktop from http://www.rstudio.com/.  
+
+5) Visit the MetaboAnalystR page and complete Step 1 and Step 2: https://github.com/xia-lab/MetaboAnalystR
+
+
+
+If you bring your own data, then you will also need to install:
+6) 
+
+
