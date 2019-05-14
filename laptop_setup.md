@@ -26,7 +26,7 @@ If you are interested to perform the raw spectra analysis using R on your own, t
 
 
 
-If you bring your own data, then you will also need to install:
+If you bring your own raw spectral data, then you will also need to install:
 6) 
 
 
