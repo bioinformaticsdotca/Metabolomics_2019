@@ -26,6 +26,8 @@ home: https://bioinformaticsdotca.github.io/metabolomics_2019
 integrative metabolomics analysis](https://drive.google.com/a/bioinformatics.ca/file/d/1B1WDmPI9dx54tOU5wcerKoqDovgp6TQ2/view?usp=sharing)  
 * [MetaboAnalystR 2.0: From Raw Spectra to
 Biological Insights](https://drive.google.com/a/bioinformatics.ca/file/d/1OWLfDGh0Vxtf2l-NKE93pBBuINw8ZlP9/view?usp=sharing)
+* [Using MetaboAnalyst 4.0 for Comprehensive and
+Integrative Metabolomics Data Analysis](https://drive.google.com/a/bioinformatics.ca/file/d/1ciH-x6WSBSlJkl6bAgZylp-Iuy9IFhgR/view?usp=sharing)  
 
 Please note that these instructions may change prior to the workshop.  
   
