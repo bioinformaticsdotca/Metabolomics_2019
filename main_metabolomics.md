@@ -164,11 +164,13 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
  * [Reactome](http://www.reactome.org/) 
  * [BioCyc](http://biocyc.org/) 
 
-## From Raw Spectra to Biological Insights
-  *<font color="#827e9c">Jeff Xia</font>*
+## (Optional) From Raw Spectra to Biological Insights
+ 
+ *<font color="#827e9c">Jeff Xia</font>*  
+  
   [Lecture]()  
   
-  [Lab practical]()  
+  [Lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1ciH-x6WSBSlJkl6bAgZylp-Iuy9IFhgR/view?usp=sharing)  
   
   
 # Day 2 <a id="day2"></a>
