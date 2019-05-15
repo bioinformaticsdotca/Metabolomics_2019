@@ -193,17 +193,16 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
     
 #### Data Input:
   
-  Critical: before uploading your data, perform a sanity check: 
+Critical: Before uploading your data, perform a sanity check: 
   
-* It is a data table separated by comma (.csv) or tab (.txt); 
-* Three types of labels: feature names, sample names and group labels (must directly follow sample names);
+* Verify that it is a data table separated by commas (.csv) or tabs (.txt); 
+* For concentration/peak intensity tables: three types of labels should be present; feature names, sample names and group labels (must directly follow sample names);
 * All measurements should be numerical values (empty for missing values); 
 * For details and screenshot instructions, [click here](http://www.metaboanalyst.ca/faces/docs/Format.xhtml)
 
-* You may have downloaded the NMR results .zip folder yesterday. You will need the .csv file from the .zip folder. [NMR results.zip](https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip) (Bayesil output - need to remove annotations lines starting with #, keep one type of ID - name/HMDB ID)
-* [Cleaned GCMS results](https://raw.githubusercontent.com/bioinformaticsdotca/Metabolomics_2017/master/CBW_GCMS_examples_clean_2017.csv) (Auto-GCMS output that has been cleaned for you) 
-* [Normalized LCMS csv](https://drive.google.com/open?id=0B8AGit-0OvvcM1pPXzhzaXYwNWM)  
-* [Unnormalized LCMS csv](https://raw.githubusercontent.com/bioinformaticsdotca/Metabolomics_2017/master/unnormalised_LCMS.csv)  
+* [Data 1](https://www.metaboanalyst.ca/resources/data/human_cachexia.csv) Metabolomic concentration table of 77 urine samples from cancer patients and healthy controls.  
+* [Data 2](https://github.com/jsychong/MetaboAnalystR/blob/master/MetaboAnalystR_2_Supplementary_Data/iHMP2_48_metaboanalyst_input.csv) Peak intensity table of 48 fecal samples from pediatric inflammatory bowel disease patients and healthy controls.
+* [Data 3](https://www.metaboanalyst.ca/resources/data/mummichog_ibd.txt) Peak list of 48 fecal samples from pediatric inflammatory bowel disease patients and healthy controls.
 
 
   
